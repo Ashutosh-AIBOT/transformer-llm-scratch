@@ -1,0 +1,286 @@
+{
+  "total_records": 95636,
+  "total_columns": 34,
+  "missing_values": {
+    "question_id": 0,
+    "title": 0,
+    "body": 0,
+    "tags": 0,
+    "tag_count": 0,
+    "programming_language": 0,
+    "categories": 0,
+    "creation_date": 0,
+    "creation_year": 0,
+    "creation_month": 0,
+    "creation_weekday": 0,
+    "last_activity_date": 0,
+    "view_count": 0,
+    "score": 0,
+    "answer_count": 0,
+    "comment_count": 0,
+    "favorite_count": 0,
+    "is_answered": 0,
+    "has_accepted_answer": 0,
+    "accepted_answer_score": 0,
+    "has_code": 0,
+    "code_block_count": 0,
+    "title_word_count": 0,
+    "title_char_count": 0,
+    "body_word_count": 0,
+    "body_char_count": 0,
+    "difficulty_score": 0,
+    "quality_score": 0,
+    "owner_reputation": 0,
+    "owner_badge_count": 0,
+    "first_response_time_seconds": 29208,
+    "first_response_time_hours": 29208,
+    "top_answer_score": 0,
+    "top_answer_body_length": 0
+  },
+  "missing_percentage": {
+    "question_id": 0.0,
+    "title": 0.0,
+    "body": 0.0,
+    "tags": 0.0,
+    "tag_count": 0.0,
+    "programming_language": 0.0,
+    "categories": 0.0,
+    "creation_date": 0.0,
+    "creation_year": 0.0,
+    "creation_month": 0.0,
+    "creation_weekday": 0.0,
+    "last_activity_date": 0.0,
+    "view_count": 0.0,
+    "score": 0.0,
+    "answer_count": 0.0,
+    "comment_count": 0.0,
+    "favorite_count": 0.0,
+    "is_answered": 0.0,
+    "has_accepted_answer": 0.0,
+    "accepted_answer_score": 0.0,
+    "has_code": 0.0,
+    "code_block_count": 0.0,
+    "title_word_count": 0.0,
+    "title_char_count": 0.0,
+    "body_word_count": 0.0,
+    "body_char_count": 0.0,
+    "difficulty_score": 0.0,
+    "quality_score": 0.0,
+    "owner_reputation": 0.0,
+    "owner_badge_count": 0.0,
+    "first_response_time_seconds": 30.540800535363253,
+    "first_response_time_hours": 30.540800535363253,
+    "top_answer_score": 0.0,
+    "top_answer_body_length": 0.0
+  },
+  "numeric_stats": {
+    "question_id": {
+      "mean": 78353576.12954327,
+      "median": 79295860.5,
+      "std": 2424297.222567532,
+      "min": 64819704.0,
+      "max": 79820507.0
+    },
+    "tag_count": {
+      "mean": 3.282968756535196,
+      "median": 3.0,
+      "std": 1.1868658700600476,
+      "min": 1.0,
+      "max": 5.0
+    },
+    "creation_year": {
+      "mean": 2024.1756660671713,
+      "median": 2024.0,
+      "std": 1.0383296228172267,
+      "min": 2020.0,
+      "max": 2025.0
+    },
+    "creation_month": {
+      "mean": 6.504809904220168,
+      "median": 7.0,
+      "std": 3.4282658317439307,
+      "min": 1.0,
+      "max": 12.0
+    },
+    "creation_weekday": {
+      "mean": 2.6646242000920157,
+      "median": 3.0,
+      "std": 1.8560896583753648,
+      "min": 0.0,
+      "max": 6.0
+    },
+    "view_count": {
+      "mean": 241.63247103601154,
+      "median": 97.0,
+      "std": 1963.430010966759,
+      "min": 2.0,
+      "max": 317919.0
+    },
+    "score": {
+      "mean": 0.710935212681417,
+      "median": 0.0,
+      "std": 1.987927709759097,
+      "min": -18.0,
+      "max": 195.0
+    },
+    "answer_count": {
+      "mean": 0.9752917311472667,
+      "median": 1.0,
+      "std": 0.8871412214672186,
+      "min": 0.0,
+      "max": 16.0
+    },
+    "comment_count": {
+      "mean": 0.0,
+      "median": 0.0,
+      "std": 0.0,
+      "min": 0.0,
+      "max": 0.0
+    },
+    "favorite_count": {
+      "mean": 0.0,
+      "median": 0.0,
+      "std": 0.0,
+      "min": 0.0,
+      "max": 0.0
+    },
+    "accepted_answer_score": {
+      "mean": 0.7547157973984692,
+      "median": 0.0,
+      "std": 2.1463233342215218,
+      "min": -6.0,
+      "max": 278.0
+    },
+    "code_block_count": {
+      "mean": 4.188297293906061,
+      "median": 3.0,
+      "std": 4.5471443336156385,
+      "min": 0.0,
+      "max": 84.0
+    },
+    "title_word_count": {
+      "mean": 10.408601363503283,
+      "median": 10.0,
+      "std": 4.166932949880335,
+      "min": 1.0,
+      "max": 33.0
+    },
+    "title_char_count": {
+      "mean": 64.40590363461457,
+      "median": 61.0,
+      "std": 24.085011388525984,
+      "min": 7.0,
+      "max": 151.0
+    },
+    "body_word_count": {
+      "mean": 116.4693420887532,
+      "median": 96.0,
+      "std": 84.16759063149205,
+      "min": 0.0,
+      "max": 2733.0
+    },
+    "body_char_count": {
+      "mean": 665.482297461207,
+      "median": 537.0,
+      "std": 520.8694977543802,
+      "min": 0.0,
+      "max": 17924.0
+    },
+    "difficulty_score": {
+      "mean": 0.20499997908737297,
+      "median": 0.203,
+      "std": 0.026876031217549712,
+      "min": 0.001,
+      "max": 0.993
+    },
+    "quality_score": {
+      "mean": 0.8713278995357397,
+      "median": 0.9,
+      "std": 0.12926821055806043,
+      "min": 0.3,
+      "max": 1.0
+    },
+    "owner_reputation": {
+      "mean": 2910.439593876783,
+      "median": 93.0,
+      "std": 15908.577183419457,
+      "min": 0.0,
+      "max": 1010847.0
+    },
+    "owner_badge_count": {
+      "mean": 0.0,
+      "median": 0.0,
+      "std": 0.0,
+      "min": 0.0,
+      "max": 0.0
+    },
+    "first_response_time_seconds": {
+      "mean": 470463.62417956284,
+      "median": 9904.5,
+      "std": 2880630.7744797855,
+      "min": 0.0,
+      "max": 100290686.0
+    },
+    "first_response_time_hours": {
+      "mean": 130.68434004987856,
+      "median": 2.75125,
+      "std": 800.1752151332755,
+      "min": 0.0,
+      "max": 27858.52388888889
+    },
+    "top_answer_score": {
+      "mean": 1.1561127608850224,
+      "median": 0.0,
+      "std": 2.536012871592748,
+      "min": -6.0,
+      "max": 278.0
+    },
+    "top_answer_body_length": {
+      "mean": 372.9343970889623,
+      "median": 193.0,
+      "std": 591.1626794210423,
+      "min": 0.0,
+      "max": 21783.0
+    }
+  },
+  "date_range": {
+    "earliest": "2020-11-13T10:58:06",
+    "latest": "2025-11-14T23:42:35"
+  },
+  "categorical_stats": {
+    "top_programming_languages": {
+      "javascript": 7355,
+      "python": 6491,
+      "java": 5948,
+      "c++": 5272,
+      "c#": 5167,
+      "swift": 5044,
+      "r": 5014,
+      "c": 4869,
+      "rust": 4847,
+      "ruby": 4846
+    },
+    "top_tags": {
+      "javascript": 7357,
+      "python": 6581,
+      "java": 6008,
+      "html": 5575,
+      "c++": 5417,
+      "sql": 5241,
+      "c": 5240,
+      "c#": 5240,
+      "r": 5185,
+      "css": 5156,
+      "typescript": 5143,
+      "php": 5138,
+      "kotlin": 5110,
+      "swift": 5108,
+      "go": 5105,
+      "ruby": 5101,
+      "scala": 5101,
+      "matlab": 5099,
+      "rust": 5094,
+      "perl": 4210
+    }
+  }
+}

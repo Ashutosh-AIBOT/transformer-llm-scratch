@@ -1,0 +1,11 @@
+streamlit==1.31.0
+torch==2.5.1
+torchvision==0.20.1
+pandas==2.2.0
+numpy==1.26.4
+scikit-learn==1.4.0
+matplotlib==3.8.2
+seaborn==0.13.2
+plotly==5.18.0
+scipy==1.12.0
+datasets==2.16.1

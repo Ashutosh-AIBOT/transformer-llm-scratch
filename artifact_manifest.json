@@ -1,0 +1,20 @@
+{
+  "preprocessing_artifacts": {
+    "full_preprocessing_pipeline": "data/processed/preprocessing_pipeline.pkl",
+    "numeric_feature_scaler": "data/processed/numeric_feature_standard_scaler.pkl",
+    "categorical_feature_encoder": "data/processed/categorical_feature_onehot_encoder.pkl",
+    "model_input_feature_names": "data/processed/model_input_feature_names.json",
+    "preprocessed_train_test_arrays": "data/processed/train_test_arrays_preprocessed.npz",
+    "training_history_curves": "data/processed/training_history_curves.json"
+  },
+  "model_artifacts": {
+    "trained_model_state_dict": "models/model_state_dict.pkl",
+    "evaluation_metrics": "models/evaluation_metrics.json"
+  },
+  "chart_artifacts": {
+    "eda_charts": "charts/*.png",
+    "train_validation_learning_curves": "charts/train_validation_learning_curves.png",
+    "test_confusion_matrix": "charts/test_confusion_matrix.png",
+    "test_roc_curve": "charts/test_roc_curve.png"
+  }
+}
