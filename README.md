@@ -1,3 +1,13 @@
+---
+title: Transformer LLM
+emoji: 🚀
+colorFrom: indigo
+colorTo: pink
+sdk: docker
+app_port: 7860
+pinned: false
+---
+
 # 🧠 Transformer from Scratch — Full Architecture Deep Dive
 
 Build the complete **Transformer Encoder** from scratch using PyTorch,
